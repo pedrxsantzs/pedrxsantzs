@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Olá, me chamo Pedro e tenho 20 anos.<br>📚 Atualmente sou estudante de análise e desenvolvimento de sistemas.<br>👉 Tenho experiências como QA e atuo na área de tecnologia desde 2018.<br>🤝 Estou a procura de uma oportunidade para atuar como Desenvolvedor front-end ou QA
+👋 Olá, me chamo Pedro e tenho 20 anos.<br>📚 Atualmente sou estudante de análise e desenvolvimento de sistemas.<br>👉 Tenho experiências como QA e atuo na área de tecnologia desde 2018.<br>🤝 Atualmente atuando como QA na BrasilCash
 
 
 ## 🌐 Socials:
