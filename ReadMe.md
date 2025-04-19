@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Olá, me chamo Pedro e tenho 21 anos.<br>📚 Atualmente sou estudante de análise e desenvolvimento de sistemas.<br>👉 Tenho experiências como QA e estudo a área de tecnologia desde 2018.<br>🤝 Atualmente atuando como QA na BrasilCash
+👋 Olá, me chamo Pedro e tenho 21 anos.<br>📚 Atualmente sou estudante de análise e desenvolvimento de sistemas.<br>👉 Tenho experiências como QA e estudo a área de tecnologia desde 2018.
 
 
 ## 🌐 Socials:
